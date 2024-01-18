@@ -38,4 +38,21 @@ This keyboard shortcut switches from your GUI virtual terminal to the 5th TUI Vi
 
 Can i do this on Windows?
 =========================
-im looking into that at this moment
+On Windows, the concept of multiple TUI terminals like in Linux (accessed via Ctrl+Alt+F1-F6) does not exist in the same way. Windows uses a single graphical user interface (GUI) for user interaction, and command-line operations are performed within this environment using tools like Command Prompt, PowerShell, or Windows Terminal.
+
+But am i still able to cause the kernel to panic?
+-------------------------------------------------
+
+Yes your able to replicate a kernel crash (Also know as a `BSOD`(Blue Screen Of Death)) Using a feature Windows themselfs added that allow developers and system administrators to intentionally cause a crash for debugging.
+One such feature is the "Crash on Ctrl + Scroll Lock" facility, which can be enabled by modifying the registry. Here's how you can set it up:
+
+
+> Step 1 (Modify the Registry):
+First Open the Registry Editor by typing `regedit` in the Run dialog (Win + R).
+Next navigate to `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\i8042prt\Parameters`.
+Then add a new DWORD value named `CrashOnCtrlScroll` and set its value to `1`.
+Once your done restart your computer for the change to take effect.
+
+> 2 Trigger the Crash:
+First hold down the right `Ctrl` key on your keyboard.
+Then press the `Scroll Lock` key twice.
