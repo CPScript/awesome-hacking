@@ -8,9 +8,21 @@ I made this simple bash script for lazy people
 How to do such
 --------------
 > Step one
-On Linux 
+* Download the `git` package using `pkg install git`
 
+> Step two
+* Clone this repository. This can be done using git - `git clone https://CPScript/Kernal-panic` 
 
+> Step three
+* cd(change directory) to Kernal-panic
+
+> Step four
+* `root` yourself. This can be done by typing `su` or `sudo su` then you must type your password
+
+> Step five
+* Run the script. this can be done by typing `bash panic.sh`
+
+ALL OF THESE STEPS ARE ESSENTIAL 
 
 Want to make your Kernel panic `Manualy`?
 =========================================
