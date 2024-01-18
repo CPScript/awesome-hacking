@@ -57,5 +57,9 @@ One such feature is the "Crash on Ctrl + Scroll Lock" facility, which can be ena
 * First hold down the right `Ctrl` key on your keyboard.
 * Then press the `Scroll Lock` key twice.
 
+This will cause an immediate kernel crash and a subsequent BSOD. The system will collect a memory dump if it is configured to do so, which can be analyzed later using debugging tools like WinDbg.
+
+Another method is to use a tool provided by Microsoft called NotMyFault, which is part of the Sysinternals Suite. This tool can be used to deliberately crash a system in various ways for testing purposes.
+
 # WARNING!
 > This replicating what is in this ReadMe.md might hurt your computer, please execute with caution
