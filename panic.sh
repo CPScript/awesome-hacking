@@ -6,7 +6,7 @@ if [ "$(id -u)" != "0" ]; then
    exit 1
 fi
 
-# Confirm with the user before proceeding
+# Security
 read -p "Are you sure you want to trigger a kernel panic? This will crash the system. (y/n) " response
 if [[ $response =~ ^([yY][eE][sS]|[yY])$ ]]
 then
