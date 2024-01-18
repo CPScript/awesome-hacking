@@ -1,4 +1,4 @@
-Want to make your kernal panic?
+Want to make your Kernel panic?
 ===============================
 
 How to do such
@@ -13,7 +13,7 @@ Your going to need to load into tty5, to do this press `ctrl + alt + F5` on your
 <summary>Im confused! (click me)</summary>
 <br>
 
-
+This keyboard shortcut switches from your GUI virtual terminal to the 5th TUI Virtual terminal. (Its basicly just a full screen terminal.)
 
   <details closed>
   <summary>Im Still confused! (click me)</summary>
