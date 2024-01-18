@@ -3,7 +3,7 @@ Want to make a Kernal panic `Automatically`?
 
 How to do such
 --------------
-(this requires a terminal)
+(This requires a terminal)
 > Step one
 * Download the `git` package using `pkg install git`
 
