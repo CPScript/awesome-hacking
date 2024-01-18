@@ -1,10 +1,6 @@
 Want to make a Kernal panic `Automatically`?
 ============================================
 
-Information
------------
-I made this simple bash script for lazy people
-
 How to do such
 --------------
 > Step one
