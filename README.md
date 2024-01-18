@@ -7,7 +7,7 @@ How to do such
 * Your going to need to boot into your Linux Distro's OS(Operating System)
 
 > Step two:
-* Your going to need to load into tty5, to do this press `ctrl + alt + F5` on your keyboard 
+* Your going to need to load into tty5, to do this press `ctrl + alt + F5` on your keyboard (<a href='https://www.computerhope.com/jargon/c/ctrl-alt-f5.htm'>Click for more info</a>) 
 <details closed>
 <summary>Im confused! (click me)</summary>
 <br>
@@ -32,7 +32,7 @@ This keyboard shortcut switches from your GUI virtual terminal to the 5th TUI Vi
 
 * `echo 'c'`: This command outputs the letter 'c', which is the input to the subsequent command.
 * `tee -a /proc/sysrq-trigger`: The `tee` command reads from standard input and writes to standard output and files. The `-a` flag is used to append the output to the file instead of overwriting it. `/proc/sysrq-trigger` is a special file that allows you to trigger various system functions by writing command characters to it, provided the `sysrq` option is enabled in the kernel.
-* When `'c'` is written to `/proc/sysrq-trigger`, it triggers a kernel panic, which is an action used to simulate a system crash. This can be useful for testing the system's behavior in a crash situation, such as ensuring that kdump (a kernel crash dumping mechanism) is properly configured and able to capture a vmcore (memory dump) for post-mortem analysis.
+* When `'c'` is written to `/proc/sysrq-trigger`, it triggers a kernel panic, which is an action used to simulate a system crash. This can be useful for testing the system's behavior in a crash situation, such as ensuring that (<a href='https://l8liliang.github.io/2021/07/13/kdump.html'>kdump</a>) (a kernel crash dumping mechanism) is properly configured and able to capture a vmcore (memory dump) for post-mortem analysis.
 
 </details>
 
