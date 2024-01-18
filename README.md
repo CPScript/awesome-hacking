@@ -38,3 +38,4 @@ This keyboard shortcut switches from your GUI virtual terminal to the 5th TUI Vi
 
 Can i do this on Windows?
 =========================
+im looking into that at this moment
