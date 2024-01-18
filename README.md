@@ -8,7 +8,6 @@ Your going to need to boot into your Linux Distro's OS(Operating System)
 
 * Step two:
 Your going to need to load into tty5, to do this press `ctrl + alt + F5` on your keyboard 
-
 <details closed>
 <summary>Im confused! (click me)</summary>
 <br>
@@ -26,9 +25,7 @@ This keyboard shortcut switches from your GUI virtual terminal to the 5th TUI Vi
 </details>
 
 * Step three:
-Once you switch into tty5 you will need to type `echo 'c' | tee -a /proc/sysrq-trigger`.
-This command is used to trigger a kernel panic on a Linux system.
-
+You need to type `echo 'c' | tee -a /proc/sysrq-trigger`. This command is used to trigger a kernel panic on a Linux system.
 <details closed>
 <summary>How does this work?</summary>
 <br>
