@@ -16,8 +16,6 @@ How to do such
 > Step five
 * Run the script. Type `bash panic.sh` into the terminal
 
-ALL OF THESE STEPS ARE ESSENTIAL 
-
 Want to make your Kernel panic `Manualy`?
 =========================================
 
