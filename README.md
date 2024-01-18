@@ -48,11 +48,11 @@ One such feature is the "Crash on Ctrl + Scroll Lock" facility, which can be ena
 
 
 > Step 1 (Modify the Registry):
-First Open the Registry Editor by typing `regedit` in the Run dialog (Win + R).
-Next navigate to `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\i8042prt\Parameters`.
-Then add a new DWORD value named `CrashOnCtrlScroll` and set its value to `1`.
-Once your done restart your computer for the change to take effect.
+* First Open the Registry Editor by typing `regedit` in the Run dialog (Win + R).
+* Next navigate to `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\i8042prt\Parameters`.
+* Then add a new DWORD value named `CrashOnCtrlScroll` and set its value to `1`.
+* Once your done restart your computer for the change to take effect.
 
 > 2 Trigger the Crash:
-First hold down the right `Ctrl` key on your keyboard.
-Then press the `Scroll Lock` key twice.
+* First hold down the right `Ctrl` key on your keyboard.
+* Then press the `Scroll Lock` key twice.
