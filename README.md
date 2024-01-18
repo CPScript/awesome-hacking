@@ -1,5 +1,5 @@
-> Want to make your Kernel panic?
-==============================
+Want to make your Kernel panic?
+===============================
 
 > How to do such
 ------------
