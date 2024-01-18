@@ -1,8 +1,8 @@
-Want to make your Kernel panic?
-===============================
+> Want to make your Kernel panic?
+==============================
 
-How to do such
---------------
+> How to do such
+------------
 * Step one:
 Your going to need to boot into your Linux Distro's OS(Operating System)
 
