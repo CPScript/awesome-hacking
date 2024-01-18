@@ -3,6 +3,7 @@ Want to make a Kernal panic `Automatically`?
 
 How to do such
 --------------
+(this requires a terminal)
 > Step one
 * Download the `git` package using `pkg install git`
 
@@ -16,7 +17,7 @@ How to do such
 * `root` yourself. This can be done by typing `su` or `sudo su` then you must type your password
 
 > Step five
-* Run the script. this can be done by typing `bash panic.sh`
+* Run the script. Type `bash panic.sh` into the terminal
 
 ALL OF THESE STEPS ARE ESSENTIAL 
 
