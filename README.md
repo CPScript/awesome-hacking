@@ -56,3 +56,6 @@ One such feature is the "Crash on Ctrl + Scroll Lock" facility, which can be ena
 > 2 Trigger the Crash:
 * First hold down the right `Ctrl` key on your keyboard.
 * Then press the `Scroll Lock` key twice.
+
+# WARNING!
+> This replicating what is in this ReadMe.md might hurt your computer, please execute with caution
