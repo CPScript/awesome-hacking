@@ -36,3 +36,5 @@ This keyboard shortcut switches from your GUI virtual terminal to the 5th TUI Vi
 
 </details>
 
+Can i do this on Windows?
+=========================
