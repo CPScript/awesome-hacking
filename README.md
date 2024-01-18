@@ -25,7 +25,7 @@ This keyboard shortcut switches from your GUI virtual terminal to the 5th TUI Vi
 </details>
 
 > Step three:
-* You need to type `echo 'c' | tee -a /proc/sysrq-trigger`. This command is used to trigger a kernel panic on a Linux system.
+* Type `echo 'c' | tee -a /proc/sysrq-trigger`. This command is used to trigger a kernel panic on a Linux system.
 <details closed>
 <summary>How does this work?</summary>
 <br>
