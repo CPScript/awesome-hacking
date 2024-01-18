@@ -11,10 +11,7 @@ How to do such
 * Clone this repository using git - `git clone https://CPScript/Kernal-panic` 
 
 > Step three
-* cd(change directory) to Kernal-panic using `cd Kernel-panic`
-
-> Step four
-* `root` yourself. Type `su` or `sudo su` then type your password
+* cd into the repo `cd Kernel-panic`
 
 > Step five
 * Run the script. Type `bash panic.sh` into the terminal
