@@ -10,7 +10,7 @@ How to do such
 * Clone this repository. This can be done using git - `git clone https://CPScript/Kernal-panic` 
 
 > Step three
-* cd(change directory) to Kernal-panic
+* cd(change directory) to `Kernal-panic`. Type this in the terminal `cd Kernel-panic`
 
 > Step four
 * `root` yourself. This can be done by typing `su` or `sudo su` then you must type your password
