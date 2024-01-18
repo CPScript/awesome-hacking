@@ -4,16 +4,16 @@ Want to make a Kernal panic `Automatically`?
 How to do such
 --------------
 (This requires a terminal)
-> Step one
+> Step one:
 * Download the `git` package using `pkg install git`
 
-> Step two
+> Step two:
 * Clone this repository using git - `git clone https://CPScript/Kernal-panic` 
 
-> Step three
+> Step three:
 * cd into the repo `cd Kernel-panic`
 
-> Step five
+> Step five:
 * Run the script. Type `bash panic.sh` into the terminal
 
 Want to make your Kernel panic `Manualy`?
