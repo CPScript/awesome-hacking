@@ -8,13 +8,13 @@ How to do such
 * Download the `git` package using `pkg install git`
 
 > Step two
-* Clone this repository. This can be done using git - `git clone https://CPScript/Kernal-panic` 
+* Clone this repository using git - `git clone https://CPScript/Kernal-panic` 
 
 > Step three
-* cd(change directory) to `Kernal-panic`. Type this in the terminal `cd Kernel-panic`
+* cd(change directory) to Kernal-panic using `cd Kernel-panic`
 
 > Step four
-* `root` yourself. This can be done by typing `su` or `sudo su` then you must type your password
+* `root` yourself. Type `su` or `sudo su` then type your password
 
 > Step five
 * Run the script. Type `bash panic.sh` into the terminal
