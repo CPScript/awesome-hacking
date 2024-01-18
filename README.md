@@ -1,13 +1,13 @@
 Want to make your Kernel panic?
 ===============================
 
-> How to do such
-------------
-* Step one:
-Your going to need to boot into your Linux Distro's OS(Operating System)
+How to do such
+--------------
+> Step one:
+* Your going to need to boot into your Linux Distro's OS(Operating System)
 
-* Step two:
-Your going to need to load into tty5, to do this press `ctrl + alt + F5` on your keyboard 
+> Step two:
+* Your going to need to load into tty5, to do this press `ctrl + alt + F5` on your keyboard 
 <details closed>
 <summary>Im confused! (click me)</summary>
 <br>
@@ -24,8 +24,8 @@ This keyboard shortcut switches from your GUI virtual terminal to the 5th TUI Vi
 
 </details>
 
-* Step three:
-You need to type `echo 'c' | tee -a /proc/sysrq-trigger`. This command is used to trigger a kernel panic on a Linux system.
+> Step three:
+* You need to type `echo 'c' | tee -a /proc/sysrq-trigger`. This command is used to trigger a kernel panic on a Linux system.
 <details closed>
 <summary>How does this work?</summary>
 <br>
