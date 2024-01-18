@@ -1,5 +1,19 @@
-Want to make your Kernel panic?
-===============================
+Want to make a Kernal panic `Automatically`?
+============================================
+
+Information
+-----------
+I made this simple bash script for lazy people
+
+How to do such
+--------------
+> Step one
+On Linux 
+
+
+
+Want to make your Kernel panic `Manualy`?
+=========================================
 
 How to do such
 --------------
@@ -44,9 +58,10 @@ But am i still able to cause the kernel to panic?
 -------------------------------------------------
 
 Yes your able to replicate a kernel crash (Also know as a `BSOD`(Blue Screen Of Death)) Using a feature Windows themselfs added that allow developers and system administrators to intentionally cause a crash for debugging.
-One such feature is the "Crash on Ctrl + Scroll Lock" facility, which can be enabled by modifying the registry. Here's how you can set it up:
+One such feature is the "Crash on Ctrl + Scroll Lock" facility, which can be enabled by modifying the registry. 
 
-
+Here's how you can set it up:
+-----------------------------
 > Step 1 (Modify the Registry):
 * First Open the Registry Editor by typing `regedit` in the Run dialog (Win + R).
 * Next navigate to `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\i8042prt\Parameters`.
