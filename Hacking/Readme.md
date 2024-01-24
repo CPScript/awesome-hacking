@@ -7,7 +7,7 @@ The three main types of hackers are:
 * Black Hat Hackers: These are cybercriminals that illegally crack systems with malicious intent. Their aim is to gain unauthorized access to computer systems and exploit any discovered vulnerabilities, often by implanting viruses or other types of malware. Ransomware attacks are also a common method used by black hat hackers 1.
 * White Hat Hackers: Also known as ethical security hackers, white hat hackers identify and fix vulnerabilities. They hack into systems with the permission of the organizations they hack into, with the aim of uncovering system weaknesses to fix them and strengthen overall internet security 1.
 * Gray Hat Hackers: Gray hat hackers may not have the criminal or malicious intent of a black hat hacker, but they also don’t have the prior knowledge or consent of those whose systems they hack into. When they uncover weaknesses, they report them rather than fully exploiting them. However, they may demand payment in exchange for providing full details of what they uncovered 1.
----
+
 There are also various other types of hackers, including:
 =========================================================
 * Blue Hat Hackers: Experts employed by companies to test and improve their cybersecurity 1.
