@@ -30,6 +30,8 @@ There are three primary methods a hacker uses to infiltrate digital systems: net
 confidential information, and hardware hacking involves physically tampering with a device.
 
 
+# Here is a collection of hackers, pentesters & security researchers
+
 Repository | Description
 ---- | ----
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
