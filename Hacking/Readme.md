@@ -1,3 +1,35 @@
+Hacking
+==========
+Hacking is essentially the application of computer skills to solve a particular problem. It involves the use of advanced programming skills to breach security protocols and gain unauthorized access to devices or networks. Not all hacking is unauthorized or malicious, and there are several types of hackers, each with unique motivations and methods 1.
+---
+The three main types of hackers are:
+====================================
+* Black Hat Hackers: These are cybercriminals that illegally crack systems with malicious intent. Their aim is to gain unauthorized access to computer systems and exploit any discovered vulnerabilities, often by implanting viruses or other types of malware. Ransomware attacks are also a common method used by black hat hackers 1.
+* White Hat Hackers: Also known as ethical security hackers, white hat hackers identify and fix vulnerabilities. They hack into systems with the permission of the organizations they hack into, with the aim of uncovering system weaknesses to fix them and strengthen overall internet security 1.
+* Gray Hat Hackers: Gray hat hackers may not have the criminal or malicious intent of a black hat hacker, but they also don’t have the prior knowledge or consent of those whose systems they hack into. When they uncover weaknesses, they report them rather than fully exploiting them. However, they may demand payment in exchange for providing full details of what they uncovered 1.
+---
+There are also various other types of hackers, including:
+=========================================================
+* Blue Hat Hackers: Experts employed by companies to test and improve their cybersecurity 1.
+* Purple Hat Hackers: Self-trainers who hack their own systems to learn in a controlled environment 1.
+* Red Hat Hackers: Vigilante hackers who use aggressive tactics to target black hat communities 1.
+* Green Hat Hackers: Inexperienced hackers who lack technical skills but can still cause harm 1.
+* Hacktivists: Purpose-driven hackers using “ethical” hacking to support a political or social cause 1.
+* Script Kiddies: Novices who use pre-created scripts and programs for hacking 1.
+* Whistleblowers: Employees or insiders who expose illegal or unethical activities within organizations 1.
+* Botnet Hackers: Those who use networks to control swarms of infected devices for large-scale malware campaigns or DDoS attacks 1.
+* Cryptohackers: Hackers who use phishing and software tools to steal coins and manipulate crypto exchanges 1.
+* Cryptojackers: People who infect or exploit devices to mine cryptocurrency without paying overhead 1.
+* Cyberterrorists: Digital terrorists who disrupt infrastructure and spread fear or propaganda to advance an ideology 1.
+* Elite Hackers: Highly skilled professionals who innovate and create new cybersecurity threats 1.
+* Gaming Hackers: Trolls or hackers who target online gamers for login credentials, in-game assets, or account details 1.
+* Malicious Insiders: Employees who operate within organizations with personal motivations to expose data or attack networks 1.
+* State-Sponsored Hackers: Government-employed hackers targeting individuals and organizations of adversaries 1.
+---
+There are three primary methods a hacker uses to infiltrate digital systems: network hacking, social engineering, and hardware hacking 2. Network hacking involves exploiting vulnerabilities in a computer network, social engineering involves tricking users into revealing 
+confidential information, and hardware hacking involves physically tampering with a device.
+
+
 Repository | Description
 ---- | ----
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
