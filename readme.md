@@ -30,7 +30,7 @@ There are three primary methods a hacker uses to infiltrate digital systems: net
 confidential information, and hardware hacking involves physically tampering with a device.
 
 
-# Here is a collection of hackers, pentesters & security researchers
+## Here is a collection of hackers, pentesters, security researchers, scripts and more:
 
 Repository | Description
 ---- | ----
