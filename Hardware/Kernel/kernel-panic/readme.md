@@ -11,7 +11,7 @@ How to do such
 * Clone this repository using git - `git clone https://CPScript/Kernal-panic` 
 
 > Step three:
-* cd into the repo `cd Kernel-panic`
+* cd into the repo `cd Kernel-panic/Hardware/Kernel/kernel-panic/script/`
 
 > Step five:
 * Run the script. Type `bash panic.sh` into the terminal
