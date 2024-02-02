@@ -118,3 +118,7 @@ Repository | Description
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
+
+> NOTE!
+> Some of the resourses here are from external sourses. If I have added info from an external sourse I will add that user's "@" and or add a link to such repo/site
+> By the way, Contributions are always accepted
