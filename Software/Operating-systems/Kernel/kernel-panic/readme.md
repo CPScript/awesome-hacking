@@ -8,10 +8,10 @@ How to do such
 * Download the `git` package using `pkg install git`
 
 > Step two:
-* Clone this repository using git - `git clone https://CPScript/Kernal-panic` 
+* Clone this repository using git - `git clone https://CPScript/awesome-hacking` 
 
 > Step three:
-* cd into the repo `cd Kernel-panic/Hardware/Kernel/kernel-panic/script/`
+* cd into the repo `cd Kernel-panic/Software/Operating-Systems/Kernel/kernel-panic/script/`
 
 > Step five:
 * Run the script. Type `bash panic.sh` into the terminal
